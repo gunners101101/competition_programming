@@ -1,0 +1,2 @@
+module olympiadsLv5 {
+}
